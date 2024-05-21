@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">my Examen</string>
+    <string name="btn_agregarLectura">add</string>
+    <string name="btn_Listar_mediciones">"see all "</string>
+    <string name="text_agua">water</string>
+    <string name="text_electricidad">electricity</string>
+    <string name="text_gas">gas</string>
+    <string name="bienvenido">Welcome</string>
+    <string name="Seleccion_tipo_lectura">Select a type</string>
+    <string name="cantidad_lectura">Check</string>
+    <string name="text_seleccionar">Select</string>
+</resources>
